@@ -38,11 +38,11 @@ export default function Home() {
       </p>
 
       <div className="w-full flex justify-center mb-8">
-        <Image
+        <img
           src="/Group-806.svg"
           alt="image"
-          width={750}
-          height={422}
+          // width={750}
+          // height={422}
           className="w-full max-w-[750px] h-auto"
         />
       </div>
