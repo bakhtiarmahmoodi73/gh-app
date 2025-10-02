@@ -36,7 +36,7 @@ export default function Home() {
       </p>
 
       <div className="w-full flex justify-center mb-8">
-        <Image
+        <img
           src="/Group-806.svg"
           alt="image"
           width={750}
