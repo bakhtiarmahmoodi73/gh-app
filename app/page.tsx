@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import CoinTable from "../components/coinTable";
 
@@ -36,7 +38,7 @@ export default function Home() {
       </p>
 
       <div className="w-full flex justify-center mb-8">
-        <img
+        <Image
           src="/Group-806.svg"
           alt="image"
           width={750}
