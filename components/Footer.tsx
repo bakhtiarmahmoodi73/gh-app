@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer className="relative  bg-[#1B2A4E]    w-full tablet:w-[834px] tablet:h-[357px] laptop:w-[1440px] laptop:h-[402px] ">
       <Image
-        src="/logo_light.d1640c2f 1.png"
+        src="/images/logo_light.d1640c2f 1.png"
         alt="logo"
         width={200}
         height={200}
@@ -20,7 +20,7 @@ function Footer() {
         فعالیت رسمی آغاز نمود.
       </p>
       <Image
-        src="/Line 35 (2).png"
+        src="/images/Line 35 (2).png"
         alt="line"
         width={0}
         height={0}
@@ -67,7 +67,7 @@ function Footer() {
       </ul>
 
       <Image
-        src="/Line 35 (2).png"
+        src="/images/Line 35 (2).png"
         alt="line"
         width={1}
         height={1}
@@ -77,7 +77,7 @@ function Footer() {
       <ul>
         <li>
           <Image
-            src="/Group 104.svg"
+            src="/images/Group 104.svg"
             alt="li"
             width={11}
             height={11}
@@ -86,7 +86,7 @@ function Footer() {
         </li>
         <li>
           <Image
-            src="/Group 103.svg"
+            src="/images/Group 103.svg"
             alt="li"
             width={11}
             height={11}
@@ -95,7 +95,7 @@ function Footer() {
         </li>
         <li>
           <Image
-            src="/Group 102.svg"
+            src="/images/Group 102.svg"
             alt="li"
             width={11}
             height={11}
@@ -104,7 +104,7 @@ function Footer() {
         </li>
         <li>
           <Image
-            src="/Group 101.svg"
+            src="/images/Group 101.svg"
             alt="li"
             width={11}
             height={11}
@@ -113,7 +113,7 @@ function Footer() {
         </li>
         <li>
           <Image
-            src="/Group 100.svg"
+            src="/images/Group 100.svg"
             alt="li"
             width={11}
             height={11}
@@ -123,7 +123,7 @@ function Footer() {
       </ul>
 
       <Image
-        src="/Line 35 (2).png"
+        src="/images/Line 35 (2).png"
         alt="line"
         width={0}
         height={0}

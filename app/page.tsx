@@ -39,7 +39,7 @@ export default function Home() {
 
       <div className="w-full flex justify-center mb-8">
         <img
-          src="/g.svg"
+          src="/images/g.svg"
           alt="image"
           // width={750}
           // height={422}

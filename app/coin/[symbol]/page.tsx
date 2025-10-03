@@ -15,7 +15,7 @@ function Page() {
             قیمت لحظه ای :
           </p>
           <Image
-            src="/bitcoin (1) 3.svg"
+            src="/images/bitcoin (1) 3.svg"
             alt="bit"
             width={10}
             height={10}
@@ -38,7 +38,7 @@ function Page() {
             $68.075.98{" "}
           </p>
           <Image
-            src="/Line 102 (1).svg"
+            src="/images/Line 102 (1).svg"
             alt="line"
             width={507}
             height={507}
@@ -98,7 +98,7 @@ function Page() {
             تومان
           </span>
           <Image
-            src="/Line 102 (1).svg"
+            src="/images/Line 102 (1).svg"
             alt="lineee"
             width={1}
             height={1}
@@ -113,14 +113,14 @@ function Page() {
             مقدار را وارد کنید
           </p>
           <Image
-            src="/Line 33.svg"
+            src="/images/Line 33.svg"
             alt="linee"
             width={1}
             height={1}
             className="absolute w-[37px] h-[1px] bg-[#9B9B9B] rotate-[-90deg] top-[469px]  left-[152.67px]  border-none tablet:top-[98px] tablet:left-[151px] laptop:w-[37px]  laptop:top-[95px] laptop:left-[232px]  "
           />
           <Image
-            src="/Group 33.svg"
+            src="/images/Group 33.svg"
             alt="iran"
             width={10}
             height={10}
@@ -131,7 +131,7 @@ function Page() {
             تومان
           </p>
           <Image
-            src="/Frame.svg"
+            src="/images/Frame.svg"
             alt="frame"
             width={1}
             height={1}
@@ -139,7 +139,7 @@ function Page() {
           />
           <div className="absolute bg-[#E8E8E8] w-[34.34px] h-[34.34px] top-[514px] left-[18px] rounded-[50%] tablet:top-[142px] tablet:left-[29px] laptop:w-[40px] laptop:h-[40px] laptop:top-[153px] laptop:left-[30px] "></div>
           <Image
-            src="/noun-back-and-forth-1522889 1.svg"
+            src="/images/noun-back-and-forth-1522889 1.svg"
             alt="frame"
             width={1}
             height={1}
@@ -154,14 +154,14 @@ function Page() {
             مقدار نهایی
           </p>
           <Image
-            src="/Line 33.svg"
+            src="/images/Line 33.svg"
             alt="linee"
             width={1}
             height={1}
             className="absolute w-[37px] h-[1px] bg-[#9B9B9B] rotate-[-90deg] top-[605px]  left-[152.67px]  border-none tablet:top-[232px] tablet:left-[151px] laptop:top-[260px] laptop:left-[232px]"
           />
           <Image
-            src="/bitcoin (1) 3.svg"
+            src="/images/bitcoin (1) 3.svg"
             alt="bit"
             width={10}
             height={10}
@@ -172,7 +172,7 @@ function Page() {
             بیت کوین
           </p>
           <Image
-            src="/Frame.svg"
+            src="/images/Frame.svg"
             alt="frame"
             width={1}
             height={1}
@@ -204,7 +204,7 @@ function Page() {
           بیت کوین
         </span>
         <Image
-          src="/Group 559.svg"
+          src="/images/Group 559.svg"
           alt="bitcoin"
           width={1}
           height={1}
@@ -252,7 +252,7 @@ function Page() {
             رمز ارز چیست؟
           </p>
           <Image
-            src="/Frame.svg"
+            src="/images/Frame.svg"
             alt="frame"
             width={1}
             height={1}
@@ -271,7 +271,7 @@ function Page() {
             آیا می توانم با کارت بانکی بیت کوین بخرم؟
           </p>
           <Image
-            src="/Frame.svg"
+            src="/images/Frame.svg"
             alt="frame"
             width={1}
             height={1}
@@ -283,7 +283,7 @@ function Page() {
             چرا باید از والت استفاده کنم؟
           </p>
           <Image
-            src="/Frame.svg"
+            src="/images/Frame.svg"
             alt="frame"
             width={1}
             height={1}
@@ -302,7 +302,7 @@ function Page() {
             اکنون شروع کنید
           </button>
           <Image
-            src="/sammy-line-man-with-money 1.svg"
+            src="/images/sammy-line-man-with-money 1.svg"
             alt="boy"
             width={1}
             height={1}

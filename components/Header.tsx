@@ -7,14 +7,14 @@ function Header() {
   return (
     <nav className=" bg-navbar mobile:w-[375px] mobile:h-[64px] tablet:w-[834px] tablet:h-[92px] laptop:w-[1440px] laptop:h-[104px]  ">
       <Image
-        src="/Group 405 (1).png"
+        src="/images/Group 405 (1).png"
         alt="log"
         width={20}
         height={20}
         className="absolute mobile:w-[24px] mobile:h-[24px] mobile:top-[20px] mobile:left-[331px] mobile:border-[1.5px] tablet:hidden laptop:hidden"
       />
       <Image
-        src="/logo_dark.8e5c7ade 2.svg"
+        src="/images/logo_dark.8e5c7ade 2.svg"
         alt="logo"
         width={100}
         height={200}
@@ -39,7 +39,7 @@ function Header() {
       </ul>
 
       <Image
-        src="/Frame.png"
+        src="/images/Frame.png"
         alt="frame"
         width={40}
         height={60}
@@ -50,7 +50,7 @@ function Header() {
       </p>
 
       <Image
-        src="/Group 137.png"
+        src="/images/Group 137.png"
         alt="user"
         width={40}
         height={60}
@@ -60,7 +60,7 @@ function Header() {
         علی اسماعیلی
       </p>
       <Image
-        src="/Frame (1).png"
+        src="/images/Frame (1).png"
         alt="frame"
         width={40}
         height={60}
